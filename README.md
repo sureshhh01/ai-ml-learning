@@ -13,10 +13,12 @@ This repository documents my **3-month AI/ML internship journey**, including wee
 
 ## 📂 Repository Structure
 
-- `First-Week-python-basic/` → Python fundamentals
+- `First-Week/` → Python fundamentals
+- `second-week/` → Flask & Web Development
 - `notebooks/` → Practice notebooks
 - `projects/` → Real-world ML projects
 - `data/` → Datasets
+- `Task/` → Assigned internship tasks
 
 ---
 
@@ -32,11 +34,25 @@ Covered core Python concepts:
 - Object-Oriented Programming (OOPs)
 
 📁 Files:
-- `datatypes.py`
+- `data-type.py`
 - `loops.py`
-- `file_handling.py`
-- `exception_handling.py`
+- `file-handling.py`
+- `exception-handling.py`
 - `oops.py`
+
+---
+
+### ✅ Week 2: Flask Basics & Tasks
+Covered Flask fundamentals and building web APIs:
+
+- Routing & Methods (GET, POST, PUT, DELETE)
+- Request & Response handling
+- JSON Data processing
+- Session Management & Authentication
+
+📁 Files:
+- `basic_crud/app.py` (Basic CRUD)
+- `Auth_with_sessions/` (Authentication Task)
 
 ---
 
